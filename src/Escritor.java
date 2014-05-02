@@ -11,5 +11,8 @@ public class Escritor {
 		return message;
 	}
 
+	public int suma(int i, int j) {
+		return i + j;
+	}
 }
 
