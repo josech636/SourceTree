@@ -1,7 +1,7 @@
 
 
 public class Escritor {
-	String message;
+	String message = "hello world";
 
 	public Escritor(String message) {
 		this.message = message;
